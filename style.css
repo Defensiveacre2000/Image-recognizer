@@ -1,0 +1,19 @@
+body
+{
+background:linear-gradient(#0356fc,#fc0303,#03fcf8);
+}
+#Image_Recognition
+{
+width: 80%;
+font-size: 22px;
+}
+#cam
+{
+border: 2px dashed rgb(245, 58, 12);
+width: 350px;
+height: 300px;
+}
+.nameobjects
+{
+color :gold;
+}
